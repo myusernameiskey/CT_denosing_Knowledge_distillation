@@ -1,0 +1,11 @@
+matplotlib
+hdf5storage
+pydicom
+scipy
+tensorboard
+future
+requests
+bs4
+dominate
+ipdb
+visdom
